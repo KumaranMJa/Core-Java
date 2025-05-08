@@ -8,12 +8,12 @@ This repository is a reflection of my journey in mastering the fundamentals of J
 ✅ Control Statements (if-else, switch, loops)
 ✅ Arrays and Strings
 ✅ Methods and Method Overloading
-✅ Object-Oriented Programming (OOP)
-  Classes & Objects
-  Inheritance
-  Polymorphism (Overloading & Overriding)
-  Abstraction (Abstract classes & Interfaces)
-  Encapsulation
+✅ Object-Oriented Programming (OOP) [
+  Classes & Objects,
+  Inheritance,
+  Polymorphism (Overloading & Overriding),
+  Abstraction (Abstract classes & Interfaces),
+  Encapsulation ]
 ✅ Constructors and Static Keyword
 ✅ Exception Handling
 ✅ Collections Framework (List, Set, Map)
